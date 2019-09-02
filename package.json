@@ -1,6 +1,6 @@
 {
   "name": "four-plus-zuul-ngrok",
-  "version": "1.0.1",
+  "version": "4.0.1",
   "description": "Since version 4.1 is not on npm. Temporary fix. An ngrok tunnel implementation for Zuul.",
   "repository": {
     "type": "git",
