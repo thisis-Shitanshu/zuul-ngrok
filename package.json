@@ -1,10 +1,10 @@
 {
-  "name": "zuul-ngrok-4-plus",
+  "name": "four-plus-zuul-ngrok",
   "version": "1.0.0",
-  "description": "An ngrok tunnel implementation for Zuul. Version 4.1. Temporary fix.",
+  "description": "Since version 4.1 is not on npm. Temporary fix. An ngrok tunnel implementation for Zuul.",
   "repository": {
     "type": "git",
-    "url": "git://github.com/rase-/zuul-ngrok"
+    "url": "git://github.com/thisis-Shitanshu/zuul-ngrok"
   },
   "keywords": [
     "zuul",
@@ -16,6 +16,6 @@
     "ngrok": "3.1.0",
     "xtend": "4.0.1"
   },
-  "contributors": ["Tony Kovanen <tonykovanen@hotmail.com>", "Shitanshu Pandey <shitanshu.19p@gmail.com>"],
+  "contributors": ["Shitanshu Pandey <shitanshu.19p@gmail.com>", "Tony Kovanen <tonykovanen@hotmail.com>"],
   "license": "MIT"
 }
